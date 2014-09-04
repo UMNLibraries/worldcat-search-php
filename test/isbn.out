@@ -1,0 +1,1190 @@
+worldcatsearch_request.php
+result = <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="/webservices/catalog/xsl/searchRetrieveResponse.xsl"?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/" xmlns:oclcterms="http://purl.org/oclc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<version>1.1</version>
+<numberOfRecords>10</numberOfRecords>
+<records>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 a 4500</leader>
+    <controlfield tag="001">155131850</controlfield>
+    <controlfield tag="008">070322s2007    nyua   j      000 1 eng  </controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">  2007925449</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DLC</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">DOV</subfield>
+      <subfield code="d">ZPX</subfield>
+      <subfield code="d">BAKER</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">IUK</subfield>
+      <subfield code="d">IOS</subfield>
+      <subfield code="d">JPL</subfield>
+      <subfield code="d">LF3</subfield>
+      <subfield code="d">SVP</subfield>
+      <subfield code="d">JZ6</subfield>
+      <subfield code="d">YBM</subfield>
+      <subfield code="d">IXA</subfield>
+      <subfield code="d">IHI</subfield>
+      <subfield code="d">YDXCP</subfield>
+      <subfield code="d">JST</subfield>
+      <subfield code="d">EHH</subfield>
+      <subfield code="d">INT</subfield>
+      <subfield code="d">LMR</subfield>
+      <subfield code="d">MBB</subfield>
+      <subfield code="d">NOR</subfield>
+      <subfield code="d">KEC</subfield>
+      <subfield code="d">JNA</subfield>
+      <subfield code="d">XFG</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">TQR</subfield>
+      <subfield code="d">CQF</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">85443494</subfield>
+      <subfield code="a">156991613</subfield>
+      <subfield code="a">212737958</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780545010221</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0545010225</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780545029360</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0545029368</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780545029377 (deluxe ed.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0545029376 (deluxe ed.)</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000042057812</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">11497587</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000042796015</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">lcac</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">e-uk-en</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="050">
+      <subfield code="a">PZ7.R79835</subfield>
+      <subfield code="b">Hak 2007</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">PR6068.O93</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="082">
+      <subfield code="a">[Fic]</subfield>
+      <subfield code="2">22</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Rowling, J. K.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Harry Potter and the deathly hallows /</subfield>
+      <subfield code="c">by J.K. Rowling ; illustrations by Mary GrandPré.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">1st ed.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York, NY :</subfield>
+      <subfield code="b">Arthur A. Levine Books,</subfield>
+      <subfield code="c">2007.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">759 p. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">24 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Sequel to: Harry Potter and the Half-Blood Prince.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Burdened with the dark, dangerous, and seemingly impossible task of locating and destroying Voldemort's remaining Horcruxes, Harry, feeling alone and uncertain about his future, struggles to find the inner strength he needs to follow the path set out before him.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="505">
+      <subfield code="g">1.</subfield>
+      <subfield code="t">The Dark Lord ascending --</subfield>
+      <subfield code="g">2.</subfield>
+      <subfield code="t">In memoriam --</subfield>
+      <subfield code="g">3.</subfield>
+      <subfield code="t">The Dursleys departing --</subfield>
+      <subfield code="g">4.</subfield>
+      <subfield code="t">The seven Potters --</subfield>
+      <subfield code="g">5.</subfield>
+      <subfield code="t">Fallen warrior --</subfield>
+      <subfield code="g">6.</subfield>
+      <subfield code="t">The ghoul in pajamas --</subfield>
+      <subfield code="g">7.</subfield>
+      <subfield code="t">The will of Albus Dumbledore --</subfield>
+      <subfield code="g">8.</subfield>
+      <subfield code="t">The wedding --</subfield>
+      <subfield code="g">9.</subfield>
+      <subfield code="t">A place to hide --</subfield>
+      <subfield code="g">10.</subfield>
+      <subfield code="t">Kreacher's tale --</subfield>
+      <subfield code="g">11.</subfield>
+      <subfield code="t">The bribe --</subfield>
+      <subfield code="g">12.</subfield>
+      <subfield code="t">Magic is might --</subfield>
+      <subfield code="g">13.</subfield>
+      <subfield code="t">The Muggle-born Registration Commission --</subfield>
+      <subfield code="g">14.</subfield>
+      <subfield code="t">The thief --</subfield>
+      <subfield code="g">15.</subfield>
+      <subfield code="t">The goblin's revenge --</subfield>
+      <subfield code="g">16.</subfield>
+      <subfield code="t">Godric's Hollow --</subfield>
+      <subfield code="g">17.</subfield>
+      <subfield code="t">Bathilda's secret --</subfield>
+      <subfield code="g">18.</subfield>
+      <subfield code="t">The life and lies of Albus Dumbledore --</subfield>
+      <subfield code="g">19.</subfield>
+      <subfield code="t">The silver doe --</subfield>
+      <subfield code="g">20.</subfield>
+      <subfield code="t">Xenophilius Lovegood --</subfield>
+      <subfield code="g">21.</subfield>
+      <subfield code="t">The tale of the three brothers --</subfield>
+      <subfield code="g">22.</subfield>
+      <subfield code="t">The Deathly Hallows --</subfield>
+      <subfield code="g">23.</subfield>
+      <subfield code="t">Malfoy Manor --</subfield>
+      <subfield code="g">24.</subfield>
+      <subfield code="t">The wandmaker --</subfield>
+      <subfield code="g">25.</subfield>
+      <subfield code="t">Shell Cottage --</subfield>
+      <subfield code="g">26.</subfield>
+      <subfield code="t">Gringotts --</subfield>
+      <subfield code="g">27.</subfield>
+      <subfield code="t">The final hiding place --</subfield>
+      <subfield code="g">28.</subfield>
+      <subfield code="t">The missing mirror --</subfield>
+      <subfield code="g">29.</subfield>
+      <subfield code="t">The lost diadem --</subfield>
+      <subfield code="g">30.</subfield>
+      <subfield code="t">The sacking of Severus Snape --</subfield>
+      <subfield code="g">31.</subfield>
+      <subfield code="t">The Battle of Hogwarts --</subfield>
+      <subfield code="g">32.</subfield>
+      <subfield code="t">The Elder Wand --</subfield>
+      <subfield code="g">33.</subfield>
+      <subfield code="t">The prince's tale --</subfield>
+      <subfield code="g">34.</subfield>
+      <subfield code="t">The forest again --</subfield>
+      <subfield code="g">35.</subfield>
+      <subfield code="t">King's Cross --</subfield>
+      <subfield code="g">36.</subfield>
+      <subfield code="t">The flaw in the plan --</subfield>
+      <subfield code="t">Epilogue.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="650">
+      <subfield code="a">Wizards</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="650">
+      <subfield code="a">Magic</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="650">
+      <subfield code="a">Coming of age</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="651">
+      <subfield code="a">England</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="655">
+      <subfield code="a">Fantasy fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Bildungsromans.</subfield>
+      <subfield code="2">gsafd</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Potter, Harry (Fictitious character)</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Wizards</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Magic</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Schools</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">England</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Hogwarts School of Witchcraft and Wizardry (Imaginary place)</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">GrandPré, Mary,</subfield>
+      <subfield code="e">ill.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="800">
+      <subfield code="a">Rowling, J. K.</subfield>
+      <subfield code="t">Year ... at Hogwarts ;</subfield>
+      <subfield code="v">7.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">BK0007134907</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker &amp; Taylor</subfield>
+      <subfield code="b">BKTY</subfield>
+      <subfield code="c">65.00</subfield>
+      <subfield code="d">58.50</subfield>
+      <subfield code="i">0545029376</subfield>
+      <subfield code="n">0007134906</subfield>
+      <subfield code="s">active</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">YBP Library Services</subfield>
+      <subfield code="b">YANK</subfield>
+      <subfield code="n">2523656</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker &amp; Taylor</subfield>
+      <subfield code="b">BKTY</subfield>
+      <subfield code="c">34.99</subfield>
+      <subfield code="d">26.24</subfield>
+      <subfield code="i">0545010225</subfield>
+      <subfield code="n">0007094500</subfield>
+      <subfield code="s">active</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker &amp; Taylor</subfield>
+      <subfield code="b">BKTY</subfield>
+      <subfield code="c">39.99</subfield>
+      <subfield code="d">39.99</subfield>
+      <subfield code="i">0545029368</subfield>
+      <subfield code="n">0007134907</subfield>
+      <subfield code="s">active</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">81259429</controlfield>
+    <controlfield tag="008">070202s2007    nyu    j      000 1 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">CSO</subfield>
+      <subfield code="c">CSO</subfield>
+      <subfield code="d">BAKER</subfield>
+      <subfield code="d">BUR</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">HKP</subfield>
+      <subfield code="d">STF</subfield>
+      <subfield code="d">CUV</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0545010225 :</subfield>
+      <subfield code="c">$34.99</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780545010221 :</subfield>
+      <subfield code="c">$34.99</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="050">
+      <subfield code="a">PR6068.O87</subfield>
+      <subfield code="b">H336 2007</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Rowling, J. K.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Harry Potter and the deathly hallows /</subfield>
+      <subfield code="c">J.K. Rowling.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Scholastic, Inc.,</subfield>
+      <subfield code="c">2007.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Rowling ;</subfield>
+      <subfield code="v">book 7</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Hardcover.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Potter, Harry (Fictitious character)</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Wizards</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Magic</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Schools</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">England</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Hogwarts School of Witchcraft and Wizardry (Imaginary place)</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Children's books.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Fantasy.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Fiction.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="800">
+      <subfield code="a">Rowling, J. K.</subfield>
+      <subfield code="t">Harry Potter [series] ;</subfield>
+      <subfield code="v">v. 7.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker &amp; Taylor</subfield>
+      <subfield code="b">BKTY</subfield>
+      <subfield code="c">34.99</subfield>
+      <subfield code="d">26.24</subfield>
+      <subfield code="i">0545010225</subfield>
+      <subfield code="n">0007094500</subfield>
+      <subfield code="s">active</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker &amp; Taylor</subfield>
+      <subfield code="b">BKTY</subfield>
+      <subfield code="c">39.99</subfield>
+      <subfield code="d">39.99</subfield>
+      <subfield code="i">0545029368</subfield>
+      <subfield code="n">0007134907</subfield>
+      <subfield code="s">active</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker &amp; Taylor</subfield>
+      <subfield code="b">BKTY</subfield>
+      <subfield code="c">65.00</subfield>
+      <subfield code="d">58.50</subfield>
+      <subfield code="i">0545029376</subfield>
+      <subfield code="n">0007134906</subfield>
+      <subfield code="s">active</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">154651189</controlfield>
+    <controlfield tag="008">070712s2007    nyua   j      000 1 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">JPL</subfield>
+      <subfield code="c">JPL</subfield>
+      <subfield code="d">JPL</subfield>
+      <subfield code="d">BAKER</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">YDXCP</subfield>
+      <subfield code="d">NUI</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780545010221</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0545010225</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780545029360 (lib. bdg.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0545029368 (lib. bdg.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780545029377 (deluxe ed.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0545029376 (deluxe ed.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">e-uk-en</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="050">
+      <subfield code="a">PZ7.R79835</subfield>
+      <subfield code="b">Hajd 2007</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="082">
+      <subfield code="a">[Fic]</subfield>
+      <subfield code="2">22</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Rowling, J. K.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Harry Potter and the deathly hallows /</subfield>
+      <subfield code="c">by J.K. Rowling ; illustrations by Mary GrandPré.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">1st American ed.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Arthur A. Levine Books,</subfield>
+      <subfield code="c">c2007.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">784 p. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">24 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"Year 7"--Spine.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Sequel to: Harry Potter and the Half-Blood Prince.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">"The final adventure in J.K. Rowling's phenomenal, best-selling Harry Potter book series"--Provided by publisher.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Wizards</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Magic</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Schools</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">England</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="650">
+      <subfield code="a">Wizards</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="650">
+      <subfield code="a">Magic</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="650">
+      <subfield code="a">Schools</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="651">
+      <subfield code="a">England</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">GrandPré, Mary,</subfield>
+      <subfield code="e">ill.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker &amp; Taylor</subfield>
+      <subfield code="b">BKTY</subfield>
+      <subfield code="c">34.99</subfield>
+      <subfield code="d">26.24</subfield>
+      <subfield code="i">0545010225</subfield>
+      <subfield code="n">0007094500</subfield>
+      <subfield code="s">active</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker &amp; Taylor</subfield>
+      <subfield code="b">BKTY</subfield>
+      <subfield code="c">39.99</subfield>
+      <subfield code="d">39.99</subfield>
+      <subfield code="i">0545029368</subfield>
+      <subfield code="n">0007134907</subfield>
+      <subfield code="s">active</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker &amp; Taylor</subfield>
+      <subfield code="b">BKTY</subfield>
+      <subfield code="c">65.00</subfield>
+      <subfield code="d">58.50</subfield>
+      <subfield code="i">0545029376</subfield>
+      <subfield code="n">0007134906</subfield>
+      <subfield code="s">active</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">YBP Library Services</subfield>
+      <subfield code="b">YANK</subfield>
+      <subfield code="n">2523656</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 a 4500</leader>
+    <controlfield tag="001">22765200</controlfield>
+    <controlfield tag="008">901113s1989    it a     b    100 0 eng  </controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   90215188 </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">DLC</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">YDXCP</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">8885091016</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9788885091016</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="050">
+      <subfield code="a">RB155.5</subfield>
+      <subfield code="b">.I55 1988</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="082">
+      <subfield code="a">174/.25</subfield>
+      <subfield code="2">20</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="111">
+      <subfield code="a">International Conference on Bioethics</subfield>
+      <subfield code="n">(5th :</subfield>
+      <subfield code="d">1988 :</subfield>
+      <subfield code="c">Rome, Italy)</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">International Conference on Bioethics :</subfield>
+      <subfield code="b">the human genome sequencing : ethical issues : Roma, 10-15 April 1988.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Brescia, Italy :</subfield>
+      <subfield code="b">Clas International,</subfield>
+      <subfield code="c">c1989.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">292 p. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">24 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">The fifth conference.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Genetic disorders</subfield>
+      <subfield code="x">Moral and ethical aspects</subfield>
+      <subfield code="v">Congresses.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Human gene mapping</subfield>
+      <subfield code="x">Moral and ethical aspects</subfield>
+      <subfield code="v">Congresses.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Gene therapy</subfield>
+      <subfield code="x">Moral and ethical aspects</subfield>
+      <subfield code="v">Congresses.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">90215188</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">YBP Library Services</subfield>
+      <subfield code="b">YANK</subfield>
+      <subfield code="n">1306413</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ia 4500</leader>
+    <controlfield tag="001">157010607</controlfield>
+    <controlfield tag="008">070727s2007    nyua   jf     000 1 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">KPR</subfield>
+      <subfield code="c">KPR</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">CUV</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="z">9780545010221</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="z">0545010225</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="z">9780545029360 (lib. bdg.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="z">0545029368 (lib. bdg.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="z">9780545029377 (deluxe ed.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="z">0545029376 (deluxe ed.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="037">
+      <subfield code="a">HALLOWS</subfield>
+      <subfield code="b">NBPP</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Rowling, J. K.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Harry Potter and the deathly hallows</subfield>
+      <subfield code="h">[braille] /</subfield>
+      <subfield code="c">by J.K. Rowling ; illustrations by Mary GrandPré.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">1st American ed.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York, N.Y. :</subfield>
+      <subfield code="b">Scholastic/Arthur A. Levine Books,</subfield>
+      <subfield code="c">c2007.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">784 p. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">24 cm.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">Rowling ;</subfield>
+      <subfield code="v">book 7</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Sequel to: Harry Potter and the Half-Blood Prince.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">"The final adventure in J.K. Rowling's phenomenal, best-selling Harry Potter book series"--Provided by publisher.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="533">
+      <subfield code="a">Braille.</subfield>
+      <subfield code="b">Boston, Mass. :</subfield>
+      <subfield code="c">National Braille Press Pub. Division.</subfield>
+      <subfield code="e">10 v.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Potter, Harry (Fictitious character)</subfield>
+      <subfield code="v">Juvenile fiction</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Hogwarts School of Witchcraft and Wizardry (Imaginary place)</subfield>
+      <subfield code="v">Juvenile fiction</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Wizards</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Magic</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Schools</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">England</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">GrandPré, Mary.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="800">
+      <subfield code="a">Rowling, J. K.</subfield>
+      <subfield code="t">Harry Potter [series] ;</subfield>
+      <subfield code="v">v. 7.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Mi 4500</leader>
+    <controlfield tag="001">254784909</controlfield>
+    <controlfield tag="008">080103s2007    nyua          000 0 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">GyGoGBV</subfield>
+      <subfield code="e">rakwb</subfield>
+      <subfield code="b">ger</subfield>
+      <subfield code="c">GBVCP</subfield>
+      <subfield code="d">OCLCQ</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0545010225</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780545010221</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Rowling, J. K.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Harry Potter and the deathly hallows /</subfield>
+      <subfield code="c">by J.K. Rowling. Ill. by Mary Grandpré.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">1. Ed.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">[New York] :</subfield>
+      <subfield code="b">Levine,</subfield>
+      <subfield code="c">2007.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">759 S :</subfield>
+      <subfield code="b">ill.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Grandpré, Mary.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cim a2200000Ka 4500</leader>
+    <controlfield tag="001">156914347</controlfield>
+    <controlfield tag="008">070723s2007    njunnn c       f    eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">RFB</subfield>
+      <subfield code="c">RFB</subfield>
+      <subfield code="d">OCLCQ</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="z">9780545010221</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="z">0545010225</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="037">
+      <subfield code="a">HV342</subfield>
+      <subfield code="b">RFBL</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">e-uk-en</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="4" tag="082">
+      <subfield code="a">j823.914</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Rowling, J. K.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Harry Potter and the deathly hallows</subfield>
+      <subfield code="h">[sound recording] /</subfield>
+      <subfield code="c">by J.K. Rowling.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Princeton, NJ :</subfield>
+      <subfield code="b">Recording for the Blind &amp; Dyslexic,</subfield>
+      <subfield code="c">2007.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">1 sound disc :</subfield>
+      <subfield code="b">digital, mono. ;</subfield>
+      <subfield code="c">4 3/4 in.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="490">
+      <subfield code="a">Harry Potter ;</subfield>
+      <subfield code="v">Year seven at Hogwarts</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Originally published: New York : Arthur A. Levine Books, c2007. 1st ed.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">Dark lord ascending -- In memoriam -- Dursleys departing -- Seven Potters -- Fallen warrior -- Ghoul in pajamas -- Will of Albus Dumbledore -- Wedding -- Place to hide -- Kreacher's tale -- Bribe -- Magic is might -- Muggle-born registration commission -- Thief -- Goblin's revenge -- Godric's Hollow -- Bathilda's secret -- Life and lies of Albus Dumbledore -- Silver doe -- Xenophilius Lovegood -- Tale of the three brothers -- Deathly hallows -- Malfoy Manor -- Wandmaker -- Shell cottage -- Gringotts -- Final hiding place -- Missing mirror -- Lost diadem -- Sacking of Severus Snape -- Battle of Hogwarts -- Elder wand -- Prince's tale -- Forest again -- King's cross -- Flaw in the plan -- Epilogue.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="506">
+      <subfield code="a">Distribution is restricted to RFB &amp; D members who have a documented print disability such as a visual impairment, learning disability or other physical disability.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">The seventh and final installment in the epic tale of Harry Potter.-Dust jacket.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="521">
+      <subfield code="a">Grade 3 and up.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="650">
+      <subfield code="a">English fiction</subfield>
+      <subfield code="y">20th century.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Potter, Harry (Fictitious character)</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Wizards</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Magic</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Schools</subfield>
+      <subfield code="z">England</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">England</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Hogwarts School of Witchcraft and Wizardry (Imaginary place)</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="655">
+      <subfield code="a">Fantasy fiction.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000nam a2200000Ma 4500</leader>
+    <controlfield tag="001">429406958</controlfield>
+    <controlfield tag="008">070202s2007    nyua   j      000 1 eng d</controlfield>
+    <controlfield tag="009">12931</controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">  2007925449</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">KYL</subfield>
+      <subfield code="c">KYL</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780545010221</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0545010225</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780545029360</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0545029368</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Rowling, J. K.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Harry Potter and the deathly hallows.</subfield>
+      <subfield code="n">[Book Seven] /</subfield>
+      <subfield code="c">by J.K. Rowling ; illustrations by Mary Grandpré.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Arthur A. Levine,</subfield>
+      <subfield code="c">2007.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">759 p. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">20 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Sequel to: Harry Potter and the half-blood prince.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">In their last year at Hogwarts Harry and his friends join the Order of the Phoenix in it's battle against Voldemort and his forces.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Potter, Harry (Fictitious character)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Hogwarts School of Witchcraft and Wizardry (Imaginary place)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Wizards</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Wizards</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Magic</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Magic</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Good and evil</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Good and evil</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Schools</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Schools</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">England</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">England</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">GrandPré, Mary.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">400997673</controlfield>
+    <controlfield tag="008">070322s2007    nyu           000 0 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">  2007925449</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">RKA</subfield>
+      <subfield code="c">RKA</subfield>
+      <subfield code="d">OCLCQ</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780739360392 :</subfield>
+      <subfield code="c">$79.95</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0739360396 :</subfield>
+      <subfield code="c">$79.95</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0545010225</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780545010221</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="024">
+      <subfield code="a">9780739360392</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Rowling, Joanne Kathleen.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Harry Potter and the deathly hallows</subfield>
+      <subfield code="h">[sound recording] /</subfield>
+      <subfield code="c">by J.K. Rowling ; illustrations by Mary GrandPré.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York, NY :</subfield>
+      <subfield code="b">Random House,</subfield>
+      <subfield code="c">c2007.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">12 sound cassettes :</subfield>
+      <subfield code="b">21 hr. ;</subfield>
+      <subfield code="c">1 7/8 ips.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Also available on compact disc from Listening Library and in hardcover from Arthur A. Levine Books.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="511">
+      <subfield code="a">Performed by Jim Dale.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="520">
+      <subfield code="a">The final book in the Harry Potter series.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="650">
+      <subfield code="a">Audiobooks.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Audiobooks on cassette.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Dale, Jim.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ma 4500</leader>
+    <controlfield tag="001">401007686</controlfield>
+    <controlfield tag="008">070322s2008    nyua   jd     000 1 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">  2007925449</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">RKA</subfield>
+      <subfield code="c">RKA</subfield>
+      <subfield code="d">OCLCQ</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780545010221</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0545010225</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780545029377 (deluxe edition)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0545029376 (deluxe edition)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780545029360 (reinforced library binding)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0545029368 (reinforced library binding)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">e-uk-en</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Rowling, Joanne Kathleen.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Harry potter and the deathly hallows /</subfield>
+      <subfield code="c">J.K. Rowling, Mary GrandPre.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York, NY :</subfield>
+      <subfield code="b">Arthur A. Levine Books An Imprint of Scholastic Inc.,</subfield>
+      <subfield code="c">2008.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">x, 759 p. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">24 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">The seventh and final book in the series about a school that teaches magic to those who go there.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Large type books.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="650">
+      <subfield code="a">Potter, Harry (Fictitious character)</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Potter, Harry (Fictitious character)</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="650">
+      <subfield code="a">Hogwarts School of Witchcraft and Wizardry (Imaginary place)</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Hogwarts School of Witchcraft and Wizardry (Imaginary place)</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Wizards</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="650">
+      <subfield code="a">Magic</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">School stories.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">England</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+</records>
+<nextRecordPosition/>
+<resultSetIdleTime/>
+<echoedSearchRetrieveRequest xmlns:srw="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<query>srw.bn=8885091016 or srw.bn=0545010225</query>
+<maximumRecords>50</maximumRecords>
+<recordPacking>xml</recordPacking>
+<startRecord>1</startRecord>
+<sortKeys>relevance</sortKeys>
+<wskey>your-wskey-here</wskey>
+<servicelevel>full</servicelevel>
+</echoedSearchRetrieveRequest>
+</searchRetrieveResponse>
+
+OK
+Test cases run: 1/1, Passes: 5, Failures: 0, Exceptions: 0

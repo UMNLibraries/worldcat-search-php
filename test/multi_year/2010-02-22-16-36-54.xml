@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="/webservices/catalog/xsl/searchRetrieveResponse.xsl"?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/" xmlns:oclcterms="http://purl.org/oclc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<version>1.1</version>
+<numberOfRecords>2</numberOfRecords>
+<records>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 a 4500</leader>
+    <controlfield tag="001">43468778</controlfield>
+    <controlfield tag="008">000216m1999uuuumdua     b   f000 0 eng  </controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   00328340 </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">NLM</subfield>
+      <subfield code="c">STF</subfield>
+      <subfield code="d">DSK</subfield>
+      <subfield code="d">DLC</subfield>
+      <subfield code="d">NLM</subfield>
+      <subfield code="d">KIE</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">ZBL</subfield>
+      <subfield code="d">AFQ</subfield>
+      <subfield code="d">LVB</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">OCLCQ</subfield>
+    </datafield>
+    <datafield ind1="7" ind2=" " tag="016">
+      <subfield code="a">100961757</subfield>
+      <subfield code="2">DNLM</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">pcc</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us---</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="050">
+      <subfield code="a">R853.H8</subfield>
+      <subfield code="b">U538 1999</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="060">
+      <subfield code="a">2000 I-275</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="060">
+      <subfield code="a">QS 620</subfield>
+      <subfield code="b">U58e 1999</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="074">
+      <subfield code="a">0766-C-28</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="082">
+      <subfield code="a">174/.28</subfield>
+      <subfield code="2">21</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">PREX 1.19:B 52/ST 4/V.-</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">PREX 1.19:ST 4/ET 3/2/V.-</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">PREX 1.19:ST 4/ET 3/2/V.1-</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">PREX 1.19:B 52/ST 4/V.1-3</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="110">
+      <subfield code="a">United States.</subfield>
+      <subfield code="b">National Bioethics Advisory Commission.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Ethical issues in human stem cell research.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Rockville, Md. (6100 Executive Blvd., Ste. 5B01, Rockville 20892-7508) :</subfield>
+      <subfield code="b">National Bioethics Advisory Commission,</subfield>
+      <subfield code="c">[1999-</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">v. :</subfield>
+      <subfield code="b">ill. ; 28 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Shipping list no.: 2000-0236-P (v. 2).</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"September, 1999"--Vol. 1.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"January 2000"--Vol. 2.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"June 2000"--Vol. 3.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="505">
+      <subfield code="a">v. 1. Report and recommendations -- v. 2. Commissioned papers -- v. 3. Religious perspectives</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="530">
+      <subfield code="a">Also available via Internet from the University of North Texas Cybercemetery web site. Addresses as of 10/21/03: http://www.georgetown.edu/research/nrcbl/nbac/stemcell.pdf (v. 1), http://govinfo.library.unt.edu/nbac/stemcell2.pdf (v. 2), http://govinfo.library.unt.edu/nbac/stemcell3.pdf (v. 3); current access available via PURLs.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Stem cells</subfield>
+      <subfield code="x">Research</subfield>
+      <subfield code="x">Moral and ethical aspects</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Bioethics</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Human body</subfield>
+      <subfield code="x">Research</subfield>
+      <subfield code="x">Moral and ethical aspects</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Human body</subfield>
+      <subfield code="x">Law and legislation</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Genetic engineering</subfield>
+      <subfield code="x">Research</subfield>
+      <subfield code="x">Moral and ethical aspects</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Genetic engineering</subfield>
+      <subfield code="x">Government policy</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="650">
+      <subfield code="a">Cellules souches</subfield>
+      <subfield code="x">Recherche</subfield>
+      <subfield code="x">Aspect moral</subfield>
+      <subfield code="z">États-Unis.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="650">
+      <subfield code="a">Cellules souches</subfield>
+      <subfield code="x">Recherche</subfield>
+      <subfield code="x">Politique gouvernementale</subfield>
+      <subfield code="z">États-Unis.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="650">
+      <subfield code="a">Embryon humain</subfield>
+      <subfield code="x">Recherche</subfield>
+      <subfield code="x">Aspect moral</subfield>
+      <subfield code="z">États-Unis.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="650">
+      <subfield code="a">Embryon humain</subfield>
+      <subfield code="x">Recherche</subfield>
+      <subfield code="x">Politique gouvernementale</subfield>
+      <subfield code="z">États-Unis.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="650">
+      <subfield code="a">Bioéthique</subfield>
+      <subfield code="z">États-Unis.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="650">
+      <subfield code="a">Embryo, Mammalian</subfield>
+      <subfield code="x">cytology</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="650">
+      <subfield code="a">Research</subfield>
+      <subfield code="x">legislation &amp; jurisprudence</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="650">
+      <subfield code="a">Stem Cells</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Bioethics</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Fetus</subfield>
+      <subfield code="x">cytology</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Genetic Engineering</subfield>
+      <subfield code="x">legislation &amp; jurisprudence</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Human Experimentation</subfield>
+      <subfield code="x">legislation &amp; jurisprudence</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="3">Vol. 1:</subfield>
+      <subfield code="u">http://purl.access.gpo.gov/GPO/LPS10146</subfield>
+      <subfield code="z">Adobe Acrobat Reader required</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="3">Vol. 2:</subfield>
+      <subfield code="u">http://purl.access.gpo.gov/GPO/LPS10147</subfield>
+      <subfield code="z">Adobe Acrobat Reader required</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="3">Vol. 3:</subfield>
+      <subfield code="u">http://purl.access.gpo.gov/GPO/LPS10148</subfield>
+      <subfield code="z">Adobe Acrobat Reader required</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">00328340</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NLM</subfield>
+      <subfield code="b">100961757</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000022586253</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>info:srw/schema/1/marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 a 4500</leader>
+    <controlfield tag="001">42726577</controlfield>
+    <controlfield tag="008">990316m19981999mdua     b   f000 0 eng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   99186717 </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="040">
+      <subfield code="a">CSdCWL</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">NLM</subfield>
+      <subfield code="d">CWE</subfield>
+      <subfield code="d">XBM</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">VET</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">GPO</subfield>
+      <subfield code="d">BTCTA</subfield>
+      <subfield code="d">MBB</subfield>
+    </datafield>
+    <datafield ind1="7" ind2=" " tag="016">
+      <subfield code="a">100892211</subfield>
+      <subfield code="2">DNLM</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="019">
+      <subfield code="a">40979215</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NLM</subfield>
+      <subfield code="b">100892211</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">NZ1</subfield>
+      <subfield code="b">5772119</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="029">
+      <subfield code="a">AU@</subfield>
+      <subfield code="b">000021617022</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="042">
+      <subfield code="a">lccopycat</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="043">
+      <subfield code="a">n-us---</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="050">
+      <subfield code="a">RC337</subfield>
+      <subfield code="b">.U5 1998</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="050">
+      <subfield code="a">KF480</subfield>
+      <subfield code="b">.U55 1998</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="060">
+      <subfield code="a">1999 E-863</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="060">
+      <subfield code="a">WM 33 AA1</subfield>
+      <subfield code="b">U5981r 1998</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="074">
+      <subfield code="a">0766-C-28</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="074">
+      <subfield code="a">0766-C-28 (online)</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="082">
+      <subfield code="a">616.89/007/273</subfield>
+      <subfield code="2">21</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="086">
+      <subfield code="a">PREX 1.19:B 52/M 52/V.1-2</subfield>
+      <subfield code="z">PREX 1.19:M 52/V.1</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="110">
+      <subfield code="a">United States.</subfield>
+      <subfield code="b">National Bioethics Advisory Commission.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Research involving persons with mental disorders that may affect decisionmaking capacity /</subfield>
+      <subfield code="c">National Bioethics Advisory Commission.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Rockville, Md. (6100 Executive Blvd., Suite 5B01, Rockville 20892-7508) :</subfield>
+      <subfield code="b">National Bioethics Advisory Commission,</subfield>
+      <subfield code="c">[1998-1999]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">2 v. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">28 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Shipping list no.: 1999-0168-P. (v. 1).</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Vol. 2 not distributed to depository libraries in a physical form.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"December 1998"--V. 1.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"May 1999"--V. 2.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="504">
+      <subfield code="a">Includes bibliographical references.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">v. 1. Report and recommendations of the National Bioethics Advisory Commission -- v. 2. Commissioned papers.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="530">
+      <subfield code="a">Also available via Internet from the NBAC web site (v. 2, PDF only).  Addresses as of 5/9/01: http://bioethics.gov/capacity/TOC.htm (v. 1), http://bioethics.gov/capacity/volumeii.pdf (v. 2); current access is available via PURL.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Biological psychiatry</subfield>
+      <subfield code="x">Research</subfield>
+      <subfield code="x">Standards</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Psychiatry</subfield>
+      <subfield code="x">Research</subfield>
+      <subfield code="x">Standards</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Mentally ill</subfield>
+      <subfield code="x">Protection</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Informed consent (Medical law)</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="650">
+      <subfield code="a">Legislation, Medical</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="650">
+      <subfield code="a">Mental Disorders</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Bioethics</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Civil Rights</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Mental Retardation</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">Research</subfield>
+      <subfield code="x">legislation &amp; jurisprudence</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="3">Vol. 1:</subfield>
+      <subfield code="u">http://purl.access.gpo.gov/GPO/LPS11821</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="3">Vol. 2:</subfield>
+      <subfield code="u">http://purl.access.gpo.gov/GPO/LPS11822</subfield>
+      <subfield code="z">Adobe Acrobat Reader Required</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="938">
+      <subfield code="a">Baker and Taylor</subfield>
+      <subfield code="b">BTCP</subfield>
+      <subfield code="n">99186717</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+</records>
+<nextRecordPosition/>
+<resultSetIdleTime/>
+<echoedSearchRetrieveRequest xmlns:srw="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<query>srw.no all "43468778" or srw.no all "42726577"</query>
+<maximumRecords>2</maximumRecords>
+<recordPacking>xml</recordPacking>
+<startRecord>1</startRecord>
+<sortKeys>relevance</sortKeys>
+<wskey>your-wskey-here</wskey>
+<servicelevel>full</servicelevel>
+</echoedSearchRetrieveRequest>
+</searchRetrieveResponse>
