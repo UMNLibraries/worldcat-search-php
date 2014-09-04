@@ -1,0 +1,45 @@
+{
+  "name": "umnlib/worldcat-search",
+  "description": "A PHP client package for the WorldCat Search API.",
+  "keywords": [],
+  "authors": [
+    {
+      "name": "David Naughton",
+      "email": "naughton@umn.edu"
+    }
+  ],
+
+  "require": {
+    "umnlib/argvalidator": "1.0.*",
+    "umnlib/file-set-datesequence": "1.0.*",
+    "umnlib/set": "1.0.*",
+    "guzzle/guzzle": "3.8.0"
+  },
+
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:UMNLibraries/argvalidator-php.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:UMNLibraries/file-set-datesequence-php.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:UMNLibraries/set-php.git"
+    }
+  ],   
+
+  "require-dev": {
+    "phpunit/phpunit": ">=3.7"
+  },
+
+  "autoload": {
+    "psr-4": {"UmnLib\\Core\\WorldCatSearch\\": "src/"}
+  },
+
+  "autoload-dev": {
+    "psr-4": {"UmnLib\\Core\\Tests\\WorldCatSearch\\": "tests/"}
+  }
+}
